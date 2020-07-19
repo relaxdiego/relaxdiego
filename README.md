@@ -1,4 +1,4 @@
-### Software Engineer Focused on Mastering the art of Software Development
+### Software Engineer Focused on Mastering the Art of Software Development
 
 Throughout my career, I have been cultivating my [T-Shaped Skills](https://en.wikipedia.org/wiki/T-shaped_skills) to become more effective at my profession. This involved hands-on experience in the following responsibilities:
 

@@ -1,16 +1,17 @@
-### Hi there 👋
+### Software Engineer Focused on Mastering the art of Software Development
 
-<!--
-**relaxdiego/relaxdiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Throughout my career, I have been cultivating my T-Shaped Skills to become more effective at my profession. This involved hands-on experience in the following responsibilities:
 
-Here are some ideas to get you started:
+- Back-end Design and Development
+- Front-end Design and Development
+- CI/CD and Software QA
+- Field Delivery
+- Customer Support
+- Project Management
+- Community Management
+- Software Product Management
+- IT Business Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To ensure that I keep my focus, I always refer to the question "How can this experience make me a more effective member of a software organization?"
+
+I’ve been having a blast learning from my varied yet closely-related experiences. However, I am far from over and I continue to look forward to the future because of the most important lesson I have learned which is that there is always something new and exciting to learn each day. [Read more about my journey...](http://relaxdiego.com/resume/)

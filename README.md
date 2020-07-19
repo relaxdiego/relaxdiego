@@ -1,6 +1,6 @@
 ### Software Engineer Focused on Mastering the art of Software Development
 
-Throughout my career, I have been cultivating my T-Shaped Skills to become more effective at my profession. This involved hands-on experience in the following responsibilities:
+Throughout my career, I have been cultivating my [T-Shaped Skills](https://en.wikipedia.org/wiki/T-shaped_skills) to become more effective at my profession. This involved hands-on experience in the following responsibilities:
 
 - Back-end Design and Development
 - Front-end Design and Development

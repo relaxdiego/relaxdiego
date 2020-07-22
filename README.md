@@ -4,9 +4,9 @@ Throughout my career, I have been cultivating my [T-Shaped Skills](https://en.wi
 
 - Back-end Design and Development
 - Front-end Design and Development
-- CI/CD and Software QA
+- CI/CD and DevOps
 - Field Delivery
-- Customer Support
+- Operations and Customer Support
 - Project Management
 - Community Management
 - Software Product Management

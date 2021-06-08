@@ -2,7 +2,7 @@
 I love building software and I've dedicated my career to mastering as many
 of the art's numerous aspects. I've done this by taking on the various
 challenges that come my way, learning as much as I can and delivering as best
-as I can. Taking pride in the systems that I build. To this end, I have⇢
+as I can. Taking pride in the systems that I build. To this end, I have
 gained experience in:
 
 - Entrepreneurship

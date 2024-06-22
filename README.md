@@ -1,9 +1,8 @@
-
-I love building software and I've dedicated my career to mastering as many
-of the art's numerous aspects. I've done this by taking on the various
-challenges that come my way, learning as much as I can and delivering as best
-as I can. Taking pride in the systems that I build. To this end, I have
-gained experience in:
+I love building software. Over the years, I've dedicated my career to
+mastering as many aspects of the craft as possible: I've taken on various
+challenges, learned from each experience, and strived for excellence in
+everything I create. All of this helps me take pride in my work. Along
+the way, I've gained experience in:
 
 - Entrepreneurship
 - Technical Product Management
